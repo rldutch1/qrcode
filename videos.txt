@@ -1,0 +1,9 @@
+How to generate qr code in php | source code | PHP Tutorials
+https://www.youtube.com/watch?v=CTP0388TRAI
+
+Generate Scannable QR Codes With PHP
+https://www.youtube.com/watch?v=c-ES8dKUWw4
+
+Generate Barcode & save into database in php
+https://www.youtube.com/watch?v=CxbB0uZe0uQ
+
