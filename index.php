@@ -26,8 +26,8 @@ th, td {padding: 5px;}
 
 <body>
 <p>
-<?php 
-echo "https://" . $_SERVER['HTTP_HOST'] . "/repos/qrcode/qrcode.php blah blah blah<br />";
+<?php
+echo "https://" . $_SERVER['HTTP_HOST'] . "/repos/qrcode/qrcode.php?text=blah blah blah<br />";
 ?>
 </p>
 <div>
